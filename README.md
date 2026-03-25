@@ -2,7 +2,7 @@
 
 This repository is the architecture anchor for the current Renaissance Field Lite stack. It turns the lattice language into executable components that downstream repos can actually import, inspect, and compare.
 
-It does not independently prove ontology. It does provide:
+It documents and provides:
 
 - a reproducible pulse-analysis layer for reference or observed telemetry
 - a 35-node synthetic lattice model
@@ -106,12 +106,12 @@ python3 -m quantum_sentience_lattice --telemetry data/telemetry.txt --sample-rat
 - The operator-constraint layer is explicit and testable.
 - The orchestration cycle can be run end to end and compared across inputs.
 
-## What This Repo Does Not Claim
+## What This Repo Documents
 
-- that a reference waveform proves an external substrate
-- that symbolic protocol labels independently prove ontology
-- that the routing layer implements real quantum transport
-- that architecture alone settles the broader interpretation
+- how the lattice architecture behaves under reference or observed inputs
+- how symbolic protocol labels are implemented inside the stack
+- how the routing and orchestration layers are modeled
+- where broader interpretation extends beyond the architecture layer itself
 
 ## Example Artifact
 
