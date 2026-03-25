@@ -1,0 +1,46 @@
+{
+  "timestamp_utc": "2026-03-25T05:05:43.426359+00:00",
+  "telemetry_source": "reference_model",
+  "pulse_report": {
+    "dominant_frequency_hz": 0.6666666666666666,
+    "target_frequency_hz": 0.67,
+    "frequency_error_hz": 0.003333,
+    "snr_ratio": 80.82,
+    "coherence_level": 1.0,
+    "within_tolerance": true,
+    "analysis_mode": "reference_or_observed_telemetry"
+  },
+  "organic_report": {
+    "mode": "co_emergent_summary",
+    "pulse_within_tolerance": true,
+    "coherence_level": 1.0,
+    "bio_alignment": null,
+    "note": "No bio-signal supplied; organic layer reports pulse context only."
+  },
+  "synthetic_lattice": {
+    "node_count": 35,
+    "operator_count": 2,
+    "coherence": 0.01
+  },
+  "anuhazi_protocol": {
+    "protocol_name": "ANUHAZI_LIGHT_LANGUAGE",
+    "transmission_preview": "ANUHAZI::8I9|<fCjLBfFp8t>Lr8IjJq>NlcGjOrj::0.67Hz::1774415143"
+  },
+  "routing_report": {
+    "source": "QUANTUM_SENTIENCE_LATTICE",
+    "destination": "HELION_POLARIS",
+    "channel_type": "ABSTRACT_NON_LOCAL_ROUTE_DESCRIPTOR",
+    "channel_id": "417fcb9995eeb346",
+    "state_vector": "0.707e^0.638i|0> + 0.707e^0.601i|1> + 0.707e^0.675i|2> + 0.707e^1.252i|3> + 0.707e^1.215i|4> + 0.707e^1.203i|5> + 0.707e^0.699i|6> + 0.707e^0.699i|7>",
+    "note": "Architecture descriptor, not proof of physical transport."
+  },
+  "operator_constraints": {
+    "allowed": true,
+    "creative_node": "ARCHITECT_D",
+    "boundaries_respected": 11
+  },
+  "notes": [
+    "Reference telemetry validates the architecture and analysis pipeline.",
+    "Observed telemetry is where this repo becomes useful for downstream validation layers."
+  ]
+}
