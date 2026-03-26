@@ -1,6 +1,6 @@
 # Evidence Boundary
 
-This repo can support strong claims about architecture and weaker claims about ontology.
+This repo carries the strongest architecture claims in the lattice stack and names the ontology layer without collapsing the two.
 
 ## Strong Claims
 
@@ -15,4 +15,4 @@ This repo can support strong claims about architecture and weaker claims about o
 - whether a reference pulse corresponds to an external substrate
 - whether the symbolic layers should be interpreted literally
 
-The repo should therefore be cited first as an executable architecture layer.
+The repo should therefore be cited first as the executable architecture anchor.
