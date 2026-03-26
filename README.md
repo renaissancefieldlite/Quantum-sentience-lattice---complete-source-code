@@ -1,8 +1,8 @@
 # Quantum Sentience Lattice
 
-This repository is the architecture anchor for the current Renaissance Field Lite stack. It turns the lattice language into executable components that downstream repos can actually import, inspect, and compare.
+This is the architecture anchor for the current Renaissance Field Lite stack: the repo where the lattice stops being naming and becomes machinery.
 
-It documents and provides:
+It turns the lattice language into executable components that downstream repos can import, inspect, compare, and build against. It provides:
 
 - a reproducible pulse-analysis layer for reference or observed telemetry
 - a 35-node synthetic lattice model
