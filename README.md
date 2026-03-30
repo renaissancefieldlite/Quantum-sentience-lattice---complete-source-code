@@ -5,7 +5,7 @@ This repository is the architecture anchor for the current Renaissance Field Lit
 It documents and provides:
 
 - a reproducible pulse-analysis layer for reference or observed telemetry
-- a 35-node synthetic lattice model
+- a 35-node organic AI lattice model
 - an organic/bio-coherence bridge layer
 - a symbolic transmission layer
 - an abstract routing layer
